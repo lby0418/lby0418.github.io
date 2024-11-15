@@ -1,0 +1,14 @@
+baseURL: https://jebbsli.com/
+languageCode: zh-hans
+title: Jebbs个人博客
+theme: gohugo-theme-ananke
+enableEmoji: true
+
+params:
+  contact:
+    email: 715480364@qq.com
+    phone: +86 15828343746
+  description: 寻找自己的尤里卡时刻
+  background_color_class: "bg-blue"
+  recent_posts_number: 3
+

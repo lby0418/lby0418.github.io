@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Jebbs个人博客</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Jebbs个人博客</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2024 21:27:21 +0800</lastBuildDate>
+    <language>zh-hans</language>
+    <lastBuildDate>Fri, 15 Nov 2024 10:51:48 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>优秀的资源-他山之石，可以攻玉</title>
+      <link>http://localhost:1313/posts/eureka/eureka-0000-excellent-resources/</link>
+      <pubDate>Fri, 15 Nov 2024 10:51:48 +0800</pubDate>
+      <guid>http://localhost:1313/posts/eureka/eureka-0000-excellent-resources/</guid>
+      <description>&lt;h3 id=&#34;优秀文章&#34;&gt;优秀文章&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/&#34;&gt;软件开发者应该知道的关于学习的十件事&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mbuffett.com/posts/maintaining-motivation/&#34;&gt;开发者如何管理自驱力&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://r2p.dev/b/2024-03-18-1brc-go/&#34;&gt;用 Go 语言分析 10 亿行数据，从 95 秒到 1.96 秒&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/articles/is-quality-worth-cost.html&#34;&gt;在开发高质量软件上的花费值得吗？&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction&#34;&gt;错误抽象&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>软件开发者应该知道的关于学习的十件事</title>
+      <link>http://localhost:1313/posts/eureka/eureka-0001-10-things-software-developers-should-learn-about-learning/</link>
+      <pubDate>Fri, 15 Nov 2024 10:22:25 +0800</pubDate>
+      <guid>http://localhost:1313/posts/eureka/eureka-0001-10-things-software-developers-should-learn-about-learning/</guid>
+      <description>&lt;p&gt;注：本文翻译至外网，原文&lt;a href=&#34;https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/&#34;&gt;10 Things Software Developers Should Learn about Learning&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f914;首先你需要明白初学者和专家之间的记忆能力和学习效果，以及开发者之间学习、训练和求职技巧的方式方法是有差异的。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Docker核心原理之Linux Cgroup</title>
+      <link>http://localhost:1313/posts/containers/docker-0002-cgroup/</link>
+      <pubDate>Thu, 14 Nov 2024 08:23:25 +0800</pubDate>
+      <guid>http://localhost:1313/posts/containers/docker-0002-cgroup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker核心原理之Linux Namespace</title>
+      <link>http://localhost:1313/posts/containers/docker-0001-namespace/</link>
+      <pubDate>Thu, 14 Nov 2024 08:22:54 +0800</pubDate>
+      <guid>http://localhost:1313/posts/containers/docker-0001-namespace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker的安装与使用</title>
+      <link>http://localhost:1313/posts/containers/docker-0000-install/</link>
       <pubDate>Wed, 13 Nov 2024 21:27:21 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/containers/docker-0000-install/</guid>
+      <description>&lt;h1 id=&#34;docker简介&#34;&gt;Docker简介&lt;/h1&gt;&#xA;&lt;p&gt;Docker是一个高级容器引擎，可以轻松地为容器创建一个轻量级的、可移植的容器，开发者可以通过此容器，将应用部署到任何支持Docker的机器上，容器之间完全隔离。&lt;/p&gt;&#xA;&lt;h1 id=&#34;docker安装&#34;&gt;Docker安装&lt;/h1&gt;&#xA;&lt;h1 id=&#34;docker常用命令&#34;&gt;Docker常用命令&lt;/h1&gt;&#xA;&lt;h1 id=&#34;docker部署nginx服务&#34;&gt;Docker部署Nginx服务&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

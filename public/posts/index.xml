@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Jebbs个人博客</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Jebbs个人博客</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Nov 2024 21:27:21 +0800</lastBuildDate>
+    <language>zh-hans</language>
+    <lastBuildDate>Fri, 15 Nov 2024 10:51:48 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 13 Nov 2024 21:27:21 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>优秀的资源-他山之石可以攻玉</title>
+      <link>http://localhost:1313/posts/eureka/eureka-0000-excellent-resources/</link>
+      <pubDate>Fri, 15 Nov 2024 10:51:48 +0800</pubDate>
+      <guid>http://localhost:1313/posts/eureka/eureka-0000-excellent-resources/</guid>
+      <description>&lt;h1 id=&#34;优秀文章&#34;&gt;优秀文章&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/&#34;&gt;软件开发者应该知道的关于学习的十件事&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>软件开发者应该知道的关于学习的十件事</title>
+      <link>http://localhost:1313/posts/eureka/eureka-0001-10-things-software-developers-should-learn-about-learning/</link>
+      <pubDate>Fri, 15 Nov 2024 10:22:25 +0800</pubDate>
+      <guid>http://localhost:1313/posts/eureka/eureka-0001-10-things-software-developers-should-learn-about-learning/</guid>
+      <description>&lt;p&gt;注：本文翻译至外网，原文&lt;a href=&#34;https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/&#34;&gt;10 Things Software Developers Should Learn about Learning&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;#x1f914;首先你需要明白初学者和专家之间的记忆能力和学习效果，以及开发者之间学习、训练和求职技巧的方式方法是有差异的。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

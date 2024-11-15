@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containers on Jebbs个人博客</title>
+    <link>http://localhost:1313/containers/</link>
+    <description>Recent content in Containers on Jebbs个人博客</description>
+    <generator>Hugo</generator>
+    <language>zh-hans</language>
+    <lastBuildDate>Thu, 14 Nov 2024 08:23:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/containers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker核心原理之Linux Cgroup</title>
+      <link>http://localhost:1313/containers/docker-0002-cgroup/</link>
+      <pubDate>Thu, 14 Nov 2024 08:23:25 +0800</pubDate>
+      <guid>http://localhost:1313/containers/docker-0002-cgroup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker核心原理之Linux Namespace</title>
+      <link>http://localhost:1313/containers/docker-0001-namespace/</link>
+      <pubDate>Thu, 14 Nov 2024 08:22:54 +0800</pubDate>
+      <guid>http://localhost:1313/containers/docker-0001-namespace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker的安装与使用</title>
+      <link>http://localhost:1313/containers/docker-0000-install/</link>
+      <pubDate>Wed, 13 Nov 2024 21:27:21 +0800</pubDate>
+      <guid>http://localhost:1313/containers/docker-0000-install/</guid>
+      <description>&lt;h1 id=&#34;docker简介&#34;&gt;Docker简介&lt;/h1&gt;&#xA;&lt;p&gt;Docker是一个高级容器引擎，可以轻松地为容器创建一个轻量级的、可移植的容器，开发者可以通过此容器，将应用部署到任何支持Docker的机器上，容器之间完全隔离。&lt;/p&gt;&#xA;&lt;h1 id=&#34;docker安装&#34;&gt;Docker安装&lt;/h1&gt;&#xA;&lt;h1 id=&#34;docker常用命令&#34;&gt;Docker常用命令&lt;/h1&gt;&#xA;&lt;h1 id=&#34;docker部署nginx服务&#34;&gt;Docker部署Nginx服务&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
